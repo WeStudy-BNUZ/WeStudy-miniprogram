@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "client",
   "description": "基于Taro的学习分享社区小程序",
-  "appid": "wxcd472badb0c32c3f",
+  "appid": "wx1328c016e69fdf9f",
   "setting": {
     "urlCheck": true,
     "es6": false,
